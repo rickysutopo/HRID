@@ -3,6 +3,7 @@ The purpose of HRID dataset is to facilitate the person re-identification resear
 
 ## Dataset Specifications
 The details of this dataset is shown in the following table.
+
 | Dataset | HRID |
 | --- | --- |
 | #identities | 200 |
