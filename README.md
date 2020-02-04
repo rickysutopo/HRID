@@ -1,4 +1,4 @@
-# Head Re-identificationo Dataset (HRID)
+# Head Re-identification Dataset (HRID)
 The purpose of HRID dataset is to facilitate the person re-identification research in cluttered scenes, where images of the full body of a person is not available due to occlusions from the other persons or objects. This dataset was derived from a People Counting Dataset (PCDS), which consist of 200 identities with various viewpoints of a human head.
 
 ## Dataset Specifications
