@@ -3,15 +3,15 @@ The purpose of HRID dataset is to facilitate the person re-identification resear
 
 ## Dataset Specifications
 The details of this dataset is shown in the following table.
-|Dataset|HRID|
-|---|---|
-|#identities|200|
-|#tracklets|355|
-|#BBoxes|21,437|
-|#distractors|3,295|
-|#camera/ID|1|
-|Scale|100x100|
-|Produced by|YOLOv3 (head)|
+| Dataset | HRID |
+| --- | --- |
+| #identities | 200 |
+| #tracklets | 355 |
+| #BBoxes | 21,437 |
+| #distractors | 3,295 |
+| #camera/ID | 1 |
+| Scale | 100x100 |
+| Produced by | YOLOv3 (head) |
 
 The journal paper for HRID dataset is currently under review. The full dataset and model will be released here upon completion of the review.
 
@@ -20,6 +20,6 @@ The journal paper for HRID dataset is currently under review. The full dataset a
 
 
 ## Acknowledgement
-All credits of the PCDS dataset go to ShiJie Sun et al.
+All credits of the PCDS dataset go to Sun et al. (2019)
 
 Github: https://github.com/shijieS/people-counting-dataset
